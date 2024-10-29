@@ -3,4 +3,8 @@ A grande preocupação é o Curintia, que saiu temporariamente da zona de rebaix
 purê de batata é muito bom com mostarda
 E o Santástico vai subir com tudo
 Oii Pramps!!
+<<<<<<< HEAD
 eita galerinha
+=======
+Bom diaaaaaaaaaaaaa, Pramps :)
+>>>>>>> d8136128e34ced5c17ed5a6289b61a750761305c
